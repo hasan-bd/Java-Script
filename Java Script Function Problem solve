@@ -1,0 +1,24 @@
+/**
+ * Welcome to the Stanford Karel IDE.
+ *
+ * link Address : http://stanford.edu/~cpiech/karel/ide.html
+ *
+ * This is a free space for you to
+ * write any Karel program you want.
+ **/
+function main(){
+   //your code here
+   putBeeper();
+   diagonalMoveAndBeeper ();
+   diagonalMoveAndBeeper ();
+   diagonalMoveAndBeeper ();
+   diagonalMoveAndBeeper ();
+
+}
+function diagonalMoveAndBeeper (){
+move();
+turnLeft();
+move();
+turnRight();
+putBeeper();
+}
