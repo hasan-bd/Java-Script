@@ -5,6 +5,7 @@
  *
  * This is a free space for you to
  * write any Karel program you want.
+ * 5*5 diagonalMoveAndBeeper
  **/
 function main(){
    //your code here
