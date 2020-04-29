@@ -6,3 +6,4 @@ function bmiCaculator(weight, height){
 var bmi = bmiCaculator(83,1.8);
 
 console.log(bmi)
+// bmi er khane input value ba j jono name delei hobe.
